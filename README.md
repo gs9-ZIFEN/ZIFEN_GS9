@@ -16,7 +16,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/96fddbe1-4ada-46b1-9af5-2ce952ca5213" width="400" alt="vibe animation">
 </div>
-<img src="https://github.com/user-attachments/assets/96fddbe1-4ada-46b1-9af5-2ce952ca5213" width="50%">
 
 ### 🛠 My Projects
 
