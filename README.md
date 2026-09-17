@@ -18,3 +18,6 @@
 </div>
                                                                
 * 📂 **[GS9 Desktop Hub](https://github.com/gs9-ZIFEN/FOLDER-GS9)** — A minimal desktop application for organizing shortcuts with a glassmorphism UI.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b3c49739-efe4-41d0-b87f-009f8fc3d882" width="60%">
+</p>
