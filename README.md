@@ -16,3 +16,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/96fddbe1-4ada-46b1-9af5-2ce952ca5213" width="400" alt="vibe animation">
 </div>
+### 🛠 My Projects
+
+* 📂 **[GS9 Desktop Hub](https://github.com/gs9-ZIFEN/FOLDER-GS9)** — A minimal desktop application for organizing shortcuts with a glassmorphism UI.
