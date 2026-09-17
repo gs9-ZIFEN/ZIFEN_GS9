@@ -14,6 +14,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Zifen&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
-<div align="center">
-  <img src="[(https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fru.pinterest.com%2Fsikunase%2Fgif-steam-anime-black%2F&ved=0CBYQjRxqFwoTCOiHn8Wm9ZYDFQAAAAAdAAAAABBq&opi=89978449)]" width="400" alt="vibe animation">
-</div>
+<img width="500" height="281" alt="ZIFEN" src="https://github.com/user-attachments/assets/96fddbe1-4ada-46b1-9af5-2ce952ca5213" />
