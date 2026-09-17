@@ -7,7 +7,6 @@
 ⚡ **About me:**
 * 🚀 Exploring code, design, and development.
 * 📂 This is where I share my public projects and experiments.
-* ✨ Always chasing the right workflow.
 
 ---
 
